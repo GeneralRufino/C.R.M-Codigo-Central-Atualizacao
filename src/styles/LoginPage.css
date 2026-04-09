@@ -1,0 +1,25 @@
+.input-group {
+  position: relative; 
+  display: flex;
+  align-items: center;
+}
+
+.input-icon {
+  position: absolute; /* Ícone fica absoluto */
+  left: 15px; /* Alinha o ícone do usuário/cadeado à esquerda */
+  color: #ccc; /* Cor do ícone */
+}
+
+.login-form input {
+  padding-left: 45px; /* Cria espaço à esquerda para o ícone */
+  /* Outros estilos do input */
+}
+
+.toggle-password {
+  position: absolute; /* Botão do olho também absoluto */
+  right: 15px; /* Alinha o olho à direita */
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #ccc;
+}
