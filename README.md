@@ -56,8 +56,8 @@ A solução consiste em uma aplicação Web Full-Stack (atualmente com Front-end
 
 5. # Divisão e Funções da C.R.M
 ## Aspecto 0-1. Direção Geral de Operações e Tarefas
-- Gestor Geral: Cauã Rufino/Antonio Monteiro
-Subalternos de Divisão:Layla Iaponã/João Lucas/Gabriel/Jorge/João Augusto/João Arthur/José/Paulo/Daniel .
+- Gestor Geral: Cauã Rufino/Antonio Monteiro/Layla Iaponã
+Subalternos de Divisão:Layla Iaponã/Antonio Monteiro/João Lucas/Gabriel/Jorge/João Augusto/João Arthur/José/Paulo/Daniel .
 Função:Coordenação de contratos, prazos e aprovação final de relatórios e demandas da divisão C.R.M.
 ## Aspecto 0-2. Supervisão de Infraestrutura e Estilização de Aplicação
 - Gestora: Layla Iaponã .Co-Host.
