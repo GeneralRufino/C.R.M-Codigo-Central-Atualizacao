@@ -54,8 +54,8 @@ A solução consiste em uma aplicação Web Full-Stack (atualmente com Front-end
 
 
 
-5. # Divisão e Funções da Divisão C.R.M
-## Aspecto 0-1. ##### Direção Geral de Operações e Tarefas
+5. # Divisão e Funções da C.R.M
+## Aspecto 0-1. #### Direção Geral de Operações e Tarefas
 - Gestor Geral: Cauã Rufino/Antonio Monteiro
 Subalternos de Divisão:Layla Iaponã/João Lucas/Gabriel/Jorge/João Augusto/João Arthur/José/Paulo/Daniel .
 Função:Coordenação de contratos, prazos e aprovação final de relatórios e demandas da divisão C.R.M.
