@@ -27,7 +27,7 @@ A solução consiste em uma aplicação Web Full-Stack (atualmente com Front-end
 
 - Validação de Identidade: Uso de CPF como chave primária de identificação do colaborador.
 
-- Alertas Automáticos: O sistema deve destacar em vermelho qualquer material cuja quantidade esteja abaixo do limite mínimo de segurança (ex: Lítio < 500kg).
+- Alertas Automáticos: O sistema deve destacar em amarelo qualquer material cuja quantidade esteja abaixo do limite mínimo de segurança (ex: Lítio < 500kg).
 
 - Fluxo de Navegação: Usuários não autenticados devem ser redirecionados obrigatoriamente para a LoginPage.
 
